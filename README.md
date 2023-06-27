@@ -1,4 +1,5 @@
-# mern-ecommerce
+# MERN-ECOMMERCE 
+#WATCH MY ECOMMERCE APP HERE: https://doubtful-slug-sun-hat.cyclic.app/
 
 #TECHNOLOGIES USED:
 MONGODB,
