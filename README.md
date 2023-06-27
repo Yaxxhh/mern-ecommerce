@@ -1,4 +1,5 @@
 # MERN-ECOMMERCE 
+Fully responsive ecommerce where we can register,login,add items to cart and with many more features.
 #WATCH MY ECOMMERCE APP HERE: https://doubtful-slug-sun-hat.cyclic.app/
 
 #TECHNOLOGIES USED:
